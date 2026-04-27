@@ -30,4 +30,4 @@ Website Inventory Management System berbasis Laravel untuk mengelola stok produk
 
 ## Link
 - GitHub: https://github.com/aleoney0901/UTS_PWEB_242410101056
-- Demo Video: [link youtube]
+- Demo Video: https://youtu.be/IV3PTt01lm0
