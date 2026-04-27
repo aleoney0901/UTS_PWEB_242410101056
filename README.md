@@ -8,7 +8,7 @@
 ---
 
 ## Deskripsi
-Website Inventory Management System berbasis Laravel untuk mengelola stok produk Mofusand Shop, meliputi kategori Plushie dan Keychain, serta dengan harganya
+Website Inventory Management System berbasis Laravel untuk mengelola stok produk mofusand, meliputi kategori Plushie dan Keychain, serta dengan harganya
 
 ---
 
