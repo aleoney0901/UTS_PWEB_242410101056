@@ -82,7 +82,7 @@
 {{-- Header --}}
 <div class="page-header">
     <h2>📦 Pengelolaan Stok</h2>
-    <p>Halo {{ $username }}! Berikut daftar inventaris produk Mofusand Shop.</p>
+    <p>Halo {{ $username }}! Berikut daftar inventaris produk.</p>
 </div>
 
 {{-- Tabel --}}
@@ -111,9 +111,9 @@
                     <td>{{ $item['nama'] }}</td>
                     <td>
                         @if($item['kategori'] == 'Plushie')
-                            <span class="badge-plushie">🧸 Plushie</span>
+                            <span class="badge-plushie"> Plushie</span>
                         @else
-                            <span class="badge-keychain">🔑 Keychain</span>
+                            <span class="badge-keychain">Keychain</span>
                         @endif
                     </td>
                     <td class="{{ $item['stok'] <= 7 ? 'stok-low' : 'stok-ok' }}">
